@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="title_tracker">Activity Tracker</string>
+    <string name="label_steps">Steps</string>
+    <string name="label_goal">Daily Goal: %1$d / %2$d</string>
+    <string name="label_distance">Distance</string>
+    <string name="unit_km">%1$.2f km</string>
+    <string name="label_calories">Calories</string>
+    <string name="unit_kcal">%1$.1f kcal</string>
+    <string name="label_time">Active Time</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_switch_lang">UA / EN</string>
+    <string name="btn_simulate">+50 Steps (Test)</string>
+    <string name="status_active">Active (%1$s)</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_no_sensor">No sensors available</string>
+    <string name="sensor_step_counter">Step Counter</string>
+    <string name="sensor_accelerometer">Accelerometer</string>
+    <string name="permission_denied">Activity recognition permission denied</string>
+</resources>

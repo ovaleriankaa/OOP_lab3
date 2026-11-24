@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Трекер активності</string>
+    <string name="title_tracker">Трекер активності</string>
+    <string name="label_steps">Кроки</string>
+    <string name="label_goal">Денна ціль: %1$d / %2$d</string>
+    <string name="label_distance">Дистанція</string>
+    <string name="unit_km">%1$.2f км</string>
+    <string name="label_calories">Калорії</string>
+    <string name="unit_kcal">%1$.1f ккал</string>
+    <string name="label_time">Час активності</string>
+    <string name="btn_start">Старт</string>
+    <string name="btn_pause">Пауза</string>
+    <string name="btn_reset">Скинути</string>
+    <string name="btn_switch_lang">UA / EN</string>
+    <string name="btn_simulate">+50 кроків (Тест)</string>
+    <string name="status_active">Активно (%1$s)</string>
+    <string name="status_paused">На паузі</string>
+    <string name="status_no_sensor">Датчики відсутні</string>
+    <string name="sensor_step_counter">Крокомір</string>
+    <string name="sensor_accelerometer">Акселерометр</string>
+    <string name="permission_denied">Доступ до датчиків активності відхилено</string>
+</resources>

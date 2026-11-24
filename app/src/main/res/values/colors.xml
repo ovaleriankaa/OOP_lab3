@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_primary">#D85C8A</color>
+    <color name="pink_on_primary">#FFFFFF</color>
+    <color name="pink_secondary_container">#FCE4EC</color>
+    <color name="pink_on_secondary_container">#880E4F</color>
+    <color name="pink_background">#FFF5F8</color>
+    <color name="pink_card">#FFFFFF</color>
+    <color name="pink_track">#F8BBD0</color>
+    <color name="pink_text_dark">#3D1C2A</color>
+</resources>
