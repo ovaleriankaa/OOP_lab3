@@ -1,2 +1,21 @@
-# Project exclude paths
-/.gradle/
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local configuration
+local.properties
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+
+# Keystore / APK
+*.jks
+*.keystore
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
